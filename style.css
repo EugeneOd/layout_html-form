@@ -5,23 +5,12 @@
   margin-bottom: 20px;
 }
 
-.input-name,
-.input-surname,
-.input-age,
-.input-birth,
-.input-agreement,
-.input-email,
-.input-password,
-.input-cats,
-.input-color,
-.input-sleep-time,
-.input-cars,
-.input-rate,
-.input-comments,
-.input-recommendation {
+.input-data {
   margin-bottom: 10px;
+  display: block;
 }
 
 .input-end {
   margin-bottom: 0;
+  display: block;
 }
